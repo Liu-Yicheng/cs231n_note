@@ -8,11 +8,11 @@ cs231n_note
 
 4.[sc231n 随堂作业参考答案](http://www.cnblogs.com/daihengchen/tag/CS231n/)　　
 
-5.自己的学习笔记：　　　　　　　　　　
+5.自己的学习笔记：[cifar10-数据集下载](http://blog.csdn.net/garfielder007/article/details/51480844)　　　　　　　　
 
 　　* [K-近邻算法在鸢尾花卉数据集上的实现---2017.10.30](/KNN.py)  
   
-　　* [SVM在cifar10上的实现([数据集下载](http://blog.csdn.net/garfielder007/article/details/51480844)---2017.11.7](/SVM_cifar10.py)  
+　　* [SVM在cifar10上的实现---2017.11.7](/SVM_cifar10.py)  
 
 
 
