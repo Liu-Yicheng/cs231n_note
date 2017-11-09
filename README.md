@@ -12,7 +12,7 @@ cs231n_note
 
    * [K-近邻算法在鸢尾花卉数据集上的实现---2017.10.30](/KNN.py) 
    * [SVM在cifar10上的实现---2017.11.7](/SVM_cifar10.py)  
-   * [softmax在cifar10上的实现---2017.11.7](/softmax_cifar10.py)      
-   * [2层神经网络在cifar10上的实现---2017.11.7](/two_layers_network_cifar.py)
+   * [softmax在cifar10上的实现---2017.11.8](/softmax_cifar10.py)      
+   * [2层神经网络在cifar10上的实现---2017.11.9](/two_layers_network_cifar.py)
    
    
